@@ -43,8 +43,9 @@ This project helped me sharpen my **data analytics and visualization skills**, i
 ---
 
 ## 📷 Dashboard Preview  
+![image](https://github.com/user-attachments/assets/1739321a-2c2d-41d9-94d5-fba0d2907fb3)
 
-![COVID-19 Dashboard](link-to-dashboard-screenshot)  
+
 
 > *Note: Upload a screenshot of your Power BI dashboard and add the link above.*
 
@@ -66,8 +67,7 @@ Want to explore the data yourself? Follow these steps:
 
 1. **Download the Repository** – Click the green "Code" button and select "Download ZIP" or clone the repo.  
 2. **Open the Power BI File** – Use **Power BI Desktop** to open `Covid19_Analysis.pbix`.  
-3. **Explore the Dashboard** – Interact with filters, slicers, and charts to uncover insights.  
-4. **Modify & Extend** – Feel free to add your own analyses or update the dataset!  
+3. **Explore the Dashboard** – Interact with filters, slicers, and charts to uncover insights.   
 
 ---
 
@@ -81,8 +81,8 @@ This project wouldn’t have been possible without the support of **Akash Raj & 
 
 If you're passionate about **data analytics, Power BI, or storytelling through data**, let's connect!  
 
-🔗 [LinkedIn Profile](your-linkedin-url)  
-🌐 [Portfolio](your-portfolio-url)  
+- **Portfolio**: [DataSciencePortfol.io](https://www.datascienceportfol.io/nikhilroy744)  
+- **LinkedIn**: [Nikhil Kumar Roy](https://www.linkedin.com/in/nikhil-kumar-roy/)  
 
 💡 Got feedback or ideas? Drop a comment or open an issue—I’d love to hear your thoughts!  
 
