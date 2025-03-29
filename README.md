@@ -88,6 +88,4 @@ If you're passionate about **data analytics, Power BI, or storytelling through d
 
 ---
 
-## 🔖 Hashtags for Discoverability  
-
 `#PowerBI #DataAnalytics #DataVisualization #CovidAnalysis #DataStorytelling #BusinessIntelligence #DataDriven #DashboardDesign`  
